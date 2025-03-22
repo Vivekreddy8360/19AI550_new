@@ -1,6 +1,6 @@
 # Ex.No: 4  Create a player Movement Script in unity 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221240030
 ### AIM: 
 To write a program to create a player movement in unity.
 ### Algorithm:
@@ -26,7 +26,7 @@ using UnityEngine;
 public class Player_movement : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float speed;
+    public float speed = 4f;
     void Start()
     {
     }
@@ -43,10 +43,9 @@ public class Player_movement : MonoBehaviour
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/16927acc-99df-498c-8524-d39972cf6212)
 
-
-
-
+![image](https://github.com/user-attachments/assets/b0a7422e-001b-4a8e-ae3c-112fe9c6ed4e)
 
 
 
